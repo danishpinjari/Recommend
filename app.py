@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load CSV data
-user_data = pd.read_csv('')  # Replace with the actual path to user.csv
+user_data = pd.read_csv('https://raw.githubusercontent.com/danishpinjari/Recommend/refs/heads/main/user.csv')  # Replace with the actual path to user.csv
 job_data = pd.read_csv('https://raw.githubusercontent.com/danishpinjari/Recommend/refs/heads/main/job.csv')  # Replace with the actual path to job.csv
 
 # Create a single TfidfVectorizer instance
