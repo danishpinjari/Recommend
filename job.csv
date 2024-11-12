@@ -1,0 +1,11 @@
+JobTitle,Company,Location,ExperienceRequired,QualificationRequired,SkillsRequired,JobDescription
+Full Stack Developer,Amazon,Mumbai,4 Years,BCA,"HTML, CSS, Javascript","Software developer"
+Backend Developer,Google,Bangalore,3 Years,B.Tech,"Java, Python","API Development"
+Data Scientist,Facebook,Hyderabad,5 Years,M.Tech,"Python, R, SQL","Data Analysis and Machine Learning"
+UI/UX Designer,Adobe,Delhi,2 Years,B.Des,"Sketch, Figma, Adobe XD","Design User Interfaces"
+DevOps Engineer,Microsoft,Chennai,4 Years,B.Tech,"AWS, Docker, Kubernetes","Deployment and Automation"
+Cybersecurity Analyst,CyberSafe,Ahmedabad,3 Years,BCA,"Network Security, Firewalls","Threat Analysis and Mitigation"
+Mobile App Developer,Flipkart,Pune,4 Years,B.Tech,"Flutter, React Native","Mobile Application Development"
+Database Administrator,Oracle,Mumbai,5 Years,M.Sc,"SQL, NoSQL","Database Management and Optimization"
+Product Manager,Zoho,Coimbatore,6 Years,MBA,"Agile, Scrum","Product Strategy and Roadmap"
+Quality Assurance Engineer,Tata Consultancy Services,Nashik,2 Years,B.Sc,"Selenium, TestNG","Software Testing and Quality Assurance"
